@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fe12c93-8265-453c-b0a0-bdeeb7968251" name="Default Changelist" comment="" />
+    <list default="true" id="9fe12c93-8265-453c-b0a0-bdeeb7968251" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -29,6 +35,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1j9UPUH7P2AA3rBUX1bBhQ3DdaQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../proj01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,10 +53,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../../../../../../../../../Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.16601942" />
     <property name="project.structure.side.proportion" value="0.22247972" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -120,24 +127,6 @@
     <configuration>C:\Users\Steven\AppData\Roaming\Subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Steven\IdeaProjects\csci160\csci160\2020\fall\svn\sposteri\proj02" />
-          <option name="myCopyRoot" value="C:\Users\Steven\IdeaProjects\csci160\csci160\2020\fall\svn\sposteri\proj02" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="C:\Users\Steven\IdeaProjects\csci160\csci160\2020\fall\svn\sposteri\proj02" />
-          <option name="myCopyRoot" value="C:\Users\Steven\IdeaProjects\csci160\csci160\2020\fall\svn\sposteri\proj02" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="9fe12c93-8265-453c-b0a0-bdeeb7968251" name="Default Changelist" comment="" />
@@ -148,6 +137,7 @@
       <workItem from="1603215778652" duration="16663000" />
       <workItem from="1604010620894" duration="38701000" />
       <workItem from="1606848576247" duration="15000" />
+      <workItem from="1606854321649" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1604288958653</created>
@@ -206,30 +196,38 @@
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604278103851" />
     <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606848589993" />
-    <state width="1877" height="628" key="GridCell.Tab.0.bottom" timestamp="1604348996726">
+    <state x="838" y="418" key="Github.ShareDialog" timestamp="1606854502548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="628" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604348996726" />
-    <state width="1877" height="545" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1604274414690" />
-    <state width="1877" height="628" key="GridCell.Tab.0.center" timestamp="1604348996726">
+    <state x="838" y="418" key="Github.ShareDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606854502548" />
+    <state x="662" y="225" key="Github.UntrackedFilesDialog" timestamp="1606854514076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="628" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604348996726" />
-    <state width="1877" height="545" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1604274414690" />
-    <state width="1877" height="628" key="GridCell.Tab.0.left" timestamp="1604348996718">
+    <state x="662" y="225" key="Github.UntrackedFilesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606854514076" />
+    <state width="1877" height="628" key="GridCell.Tab.0.bottom" timestamp="1606854667525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="628" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604348996718" />
-    <state width="1877" height="545" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1604274414690" />
-    <state width="1877" height="628" key="GridCell.Tab.0.right" timestamp="1604348996726">
+    <state width="1877" height="628" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606854667525" />
+    <state width="1877" height="628" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606854421496" />
+    <state width="1877" height="628" key="GridCell.Tab.0.center" timestamp="1606854667525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="628" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604348996726" />
-    <state width="1877" height="545" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1604274414690" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1603216179910">
+    <state width="1877" height="628" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606854667525" />
+    <state width="1877" height="628" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606854421496" />
+    <state width="1877" height="628" key="GridCell.Tab.0.left" timestamp="1606854667525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1603216179910" />
+    <state width="1877" height="628" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606854667525" />
+    <state width="1877" height="628" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606854421496" />
+    <state width="1877" height="628" key="GridCell.Tab.0.right" timestamp="1606854667525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="628" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606854667525" />
+    <state width="1877" height="628" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606854421496" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1606854646444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606854646444" />
     <state x="690" y="281" key="extract.method.dialog" timestamp="1603218420346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
